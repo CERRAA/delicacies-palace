@@ -5,10 +5,10 @@ made by the elite.inc.
 Description : this web app is very intresting since it allows the user to order the type of pizza they want to be delivered to them at a very low exppense.
 Setup/Installation Requirements
 follow the link below
-https://github.com/CERRAA/week-four.git
+https://cerraa.github.io/delicacies-palace/
 download the app from the website extract the files after installation open the app and accept the rights and policy enjoy the application Live link
 
-https://github.com/CERRAA/week-four.git
+https://cerraa.github.io/delicacies-palace/
 Known Bugs :[the app can input incorrect data but it will automatically recorrect itself]
 languages Used in writing the application
 HTML. bootstrap CSS. JAVASCRIPT. jquerry
